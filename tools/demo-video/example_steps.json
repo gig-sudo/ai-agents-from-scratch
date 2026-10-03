@@ -1,0 +1,65 @@
+{
+  "title": "From purchase requisition to published RFQ, by chat",
+  "subtitle": "Autonomous Sourcing Assistant demo",
+  "outro": "Autonomous Sourcing Assistant",
+  "outro_sub": "Follow for more AI agent demos",
+  "target_seconds": 30,
+  "format": "4:5",
+  "segments": [
+    {
+      "start": 3,
+      "end": 40,
+      "caption": "Chat with the agent and give it a purchase requisition number",
+      "zoom": [
+        0.58,
+        0.38,
+        1.4
+      ]
+    },
+    {
+      "start": 40,
+      "end": 62,
+      "caption": "It reads the requisition and asks which lines to negotiate",
+      "zoom": [
+        0.58,
+        0.5,
+        1.4
+      ]
+    },
+    {
+      "start": 62,
+      "end": 95,
+      "caption": "It checks sourcing policies and creates the negotiation",
+      "zoom": [
+        0.58,
+        0.5,
+        1.4
+      ]
+    },
+    {
+      "start": 95,
+      "end": 135,
+      "caption": "AI drafts the cover text and recommends suppliers",
+      "zoom": [
+        0.58,
+        0.5,
+        1.4
+      ]
+    },
+    {
+      "start": 140,
+      "end": 152,
+      "caption": "The RFQ is published",
+      "zoom": [
+        0.58,
+        0.5,
+        1.4
+      ]
+    },
+    {
+      "start": 163.5,
+      "end": 173.5,
+      "caption": "RFQ 225 is live, created by the assistant"
+    }
+  ]
+}
